@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-		print("Hello Wordl");
+		print("Hello Wordl! from IES Poligono Sur");
 	?>
 </body>
 </html>
