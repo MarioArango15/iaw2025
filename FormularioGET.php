@@ -4,7 +4,6 @@
     <title>Pedido de Panadería</title>
 </head>
 <body>
-
     <h2>Realizar Pedido</h2>
     <form action="" method="GET" onsubmit="alert('Pedido realizado con exito')";>
         <label for="nombre">Nombre:</label>
