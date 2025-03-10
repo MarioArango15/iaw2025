@@ -9,9 +9,9 @@
 <body>
     <h1>Gestión de Concesionaria de Autos</h1>
     <nav>
-        <a href="clientes.php">Gestión de Clientes</a> |
-        <a href="autos.php">Gestión de Autos</a> |
-        <a href="compras.php">Registro de Compras</a> |
+        <a href="clientes.php">Clientes</a> |
+        <a href="autos.php">Vehículos</a> |
+        <a href="compras.php">Compras</a> |
         <a href="listar_compras.php">Listado de Compras</a>
     </nav>
 </body>
